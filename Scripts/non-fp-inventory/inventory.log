@@ -1,0 +1,91 @@
+﻿MKSKM-SWNAT-05# show inventory all
+NAME: "Chassis",  DESCR: "Nexus9000 93180YC-EX chassis"          
+PID: N9K-C93180YC-EX     ,  VID: V02 ,  SN: FDO22062FDY          
+
+NAME: "Slot 1",  DESCR: "48x10/25G + 6x40/100G Ethernet Module" 
+PID: N9K-C93180YC-EX     ,  VID: V02 ,  SN: FDO22062FDY          
+
+NAME: "Power Supply 1",  DESCR: "Nexus9000 93180YC-EX chassis Power Supply"
+PID: UCS-PSU-6332-DC     ,  VID: V02 ,  SN: LIT21322H62          
+
+NAME: "Power Supply 2",  DESCR: "Nexus9000 93180YC-EX chassis Power Supply"
+PID: UCS-PSU-6332-DC     ,  VID: V02 ,  SN: LIT21322HNW          
+
+NAME: "Fan 1",  DESCR: "Nexus9000 93180YC-EX chassis Fan Module"
+PID: NXA-FAN-30CFM-F     ,  VID: V01 ,  SN: N/A                  
+
+NAME: "Fan 2",  DESCR: "Nexus9000 93180YC-EX chassis Fan Module"
+PID: NXA-FAN-30CFM-F     ,  VID: V01 ,  SN: N/A                  
+
+NAME: "Fan 3",  DESCR: "Nexus9000 93180YC-EX chassis Fan Module"
+PID: NXA-FAN-30CFM-F     ,  VID: V01 ,  SN: N/A                  
+
+NAME: "Fan 4",  DESCR: "Nexus9000 93180YC-EX chassis Fan Module"
+PID: NXA-FAN-30CFM-F     ,  VID: V01 ,  SN: N/A                  
+
+NAME: Ethernet1/1,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202DGR9          
+
+NAME: Ethernet1/2,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202D1MP          
+
+NAME: Ethernet1/3,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22060N0T          
+
+NAME: Ethernet1/4,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202D1LS          
+
+NAME: Ethernet1/5,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202D1M4          
+
+NAME: Ethernet1/6,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22160PDJ          
+
+NAME: Ethernet1/7,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202D2UG          
+
+NAME: Ethernet1/8,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22051F9D          
+
+NAME: Ethernet1/9,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2201D0FT          
+
+NAME: Ethernet1/10,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202DH8D          
+
+NAME: Ethernet1/11,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22060N0Q          
+
+NAME: Ethernet1/12,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2201D0XF          
+
+NAME: Ethernet1/14,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202DH89          
+
+NAME: Ethernet1/17,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22051FAY          
+
+NAME: Ethernet1/19,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22160PFP          
+
+NAME: Ethernet1/21,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202DJ02          
+
+NAME: Ethernet1/23,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22060N1B          
+
+NAME: Ethernet1/46,  DESCR: CISCO-FINISAR                           
+PID: 10Gbase-SR-S        ,  VID: FTLX8574D3BCL-C3,  SN: FNS22060N1Q          
+
+NAME: Ethernet1/47,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202DDTV          
+
+NAME: Ethernet1/48,  DESCR: CISCO-AVAGO                             
+PID: 10Gbase-SR-S        ,  VID: SFBR-709SMZ-CS2 ,  SN: AVD2202DC87          
+
+NAME: Ethernet1/49,  DESCR: CISCO-INNOLIGHT                         
+PID: QSFP-100G-SR4       ,  VID: TR-FC85S-NC2    ,  SN: INL2502K3R3          
+
+NAME: Ethernet1/52,  DESCR: CISCO-INNOLIGHT                         
+PID: QSFP-100G-SR4       ,  VID: TR-FC85S-NC2    ,  SN: INL2502K334          
+
